@@ -7,7 +7,7 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/v-tan/ChatGPT-Login-Recreation.git
+git clone https://github.com/v-tan/gpt-login-compose.git
 ```
 1. Open the project in Android Studio.
 2. Run the app on an emulator or a physical device.
